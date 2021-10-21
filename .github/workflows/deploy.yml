@@ -3,7 +3,7 @@ name: Deploy Aws
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
