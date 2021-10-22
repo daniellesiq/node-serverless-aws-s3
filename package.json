@@ -1,5 +1,5 @@
 {
-  "name": "aws-node-upload-s3",
+  "name": "node-serverless-aws-s3",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
