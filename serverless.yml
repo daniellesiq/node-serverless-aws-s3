@@ -5,7 +5,7 @@ service: aws-s3
 frameworkVersion: "2"
 
 custom:
-  bucket: uploadPhoto
+  bucket: incluir-nome
 
 provider:
   name: aws
