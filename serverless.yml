@@ -5,7 +5,7 @@ service: aws-s3
 frameworkVersion: "2"
 
 custom:
-  bucket: s3UploadNewPhoto
+  bucket: s3uploadnewPhoto
 
 provider:
   name: aws
