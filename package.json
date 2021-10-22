@@ -2,7 +2,7 @@
   "name": "node-serverless-aws-s3",
   "version": "1.0.0",
   "description": "",
-  "main": "handler.js",
+  "main": "optimize.js",
   "devDependencies": {},  
   "keywords": [],
   "author": "",
